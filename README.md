@@ -6,4 +6,4 @@
 
 ## 📁dir
 
-[codingtest]("codingtest/README.md")
+[codingtest](codingtest/README.md)
