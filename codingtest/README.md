@@ -3,7 +3,7 @@
 
 유형 | 문제 
 ---- | ---- 
-그리디 |  
+[그리디](codingtest/greedy.md) |  
 구현 |  
 DFS/BFS |   
 정렬 |  
