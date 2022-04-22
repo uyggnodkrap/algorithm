@@ -2,9 +2,9 @@
 
 | 주차 | 유형 | 문제 |
 | - | ----- |  ------ |
-| 1| 스택/큐 | 주식가격 | 
-| 1| 스택/큐 | 기능개발 | 
-| 1| 스택/큐 | 다리를 지나는 트럭 | 
+| 1| [스택/큐](https://github.com/uyggnodkrap/algorithm/blob/43910bab083682bd23486c08f8982fd92288c621/algorithmstudy/01week/intro.py)| [주식가격](https://github.com/uyggnodkrap/algorithm/blob/43910bab083682bd23486c08f8982fd92288c621/algorithmstudy/01week/prgm42584.md) | 
+| 1| [스택/큐](https://github.com/uyggnodkrap/algorithm/blob/43910bab083682bd23486c08f8982fd92288c621/algorithmstudy/01week/intro.py) | 기능개발 | 
+| 1| [스택/큐](https://github.com/uyggnodkrap/algorithm/blob/43910bab083682bd23486c08f8982fd92288c621/algorithmstudy/01week/intro.py) | 다리를 지나는 트럭 | 
 
 
 
