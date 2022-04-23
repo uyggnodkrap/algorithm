@@ -6,4 +6,6 @@
 
 ## 📁dir
 
-[codingtest](codingtest/README.md)
+[codingtest💥](codingtest/README.md)
+<br/>
+[algorithstudy💥](algorithmstudy/README.md)
