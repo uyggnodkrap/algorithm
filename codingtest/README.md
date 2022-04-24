@@ -3,7 +3,7 @@
 
 유형 | 문제 
 ---- | ---- 
-[그리디](codingtest/greedy.md) |  
+<a href = "https://github.com/uyggnodkrap/algorithm/blob/b4a93b961fd77c2b508020bf41676f3ec3307f0a/codingtest/greedy.md">그리디</a> |  
 구현 |  
 DFS/BFS |   
 정렬 |  
