@@ -4,10 +4,10 @@
 </a>
 > 알고리즘 문제 풀기 및 description
 
-## 📁
+## 💥
 
-### [algorithmstudy💥](codingtest/README.md)
+### [📁algorithmstudy](codingtest/README.md)
 - 책 '**이것이 취업을 위한 코딩테스트다**' 부수기
 
-### [algorithstudy💥](algorithmstudy/README.md)
+### [📁algorithstudy](algorithmstudy/README.md)
 - weekly mission 부수기
