@@ -1,7 +1,11 @@
 # 📌 algorithm
 
-<a href src = "https://pdg0526.tistory.com/category/algorithm"><img src = "https://cdn2.iconfinder.com/data/icons/artificial-intelligence-52/48/bl_1648_Brain_artificial_intelligence_face_computer_processor_connections-256.png">
-</a>
+<img src = "https://user-images.githubusercontent.com/102901226/165515767-80d781df-bcb1-4c36-b695-e5b58e87e33f.png" width = "320px" height = "250px" />
+
+
+<!-- ![IMG_6274](https://user-images.githubusercontent.com/102901226/165515767-80d781df-bcb1-4c36-b695-e5b58e87e33f.png){: width="100px" height="100px"} -->
+
+
 > 알고리즘 문제풀이 및 description
 
 ## 💥
@@ -11,3 +15,4 @@
 
 ### [📁algorithmstudy](algorithmstudy/README.md)
 - weekly mission 부수기
+
