@@ -21,7 +21,7 @@ DFS/BFS |
 | 그리디 문제 |  |
 | 구현 문제 | |
 | DFS/BFS 문제| |
-| 정렬 문제 | [국영수](https://github.com/uyggnodkrap/algorithm/blob/fa46a563736b8377758bb9981e451834b5626ee7/codingtest/search/boj10825.py), [안테나](https://github.com/uyggnodkrap/algorithm/blob/fa46a563736b8377758bb9981e451834b5626ee7/codingtest/search/boj18310.py) |
+| 정렬 문제 | [국영수](https://github.com/uyggnodkrap/algorithm/blob/810c239031be17f9e17fb1af97775f36f50e22d4/codingtest/sort/boj10825.py), [안테나](https://github.com/uyggnodkrap/algorithm/blob/810c239031be17f9e17fb1af97775f36f50e22d4/codingtest/sort/boj18310.py), [실패율](https://github.com/uyggnodkrap/algorithm/blob/810c239031be17f9e17fb1af97775f36f50e22d4/codingtest/sort/prgm42889.py) |
 | 이진 탐색 문제 | |
 | 다이나믹 프로그래밍 | |
 | 최단 경로 | |
