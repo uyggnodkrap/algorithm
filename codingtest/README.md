@@ -22,7 +22,7 @@
 | 구현 문제 | |
 | DFS/BFS 문제| [특정 거리의 도시 찾기](https://velog.io/@pdg0526/Part-3-%ED%8A%B9%EC%A0%95-%EA%B1%B0%EB%A6%AC%EC%9D%98-%EB%8F%84%EC%8B%9C-%EC%B0%BE%EA%B8%B0)|
 | 정렬 문제 | [국영수](https://github.com/uyggnodkrap/algorithm/blob/810c239031be17f9e17fb1af97775f36f50e22d4/codingtest/sort/boj10825.py), [안테나](https://github.com/uyggnodkrap/algorithm/blob/810c239031be17f9e17fb1af97775f36f50e22d4/codingtest/sort/boj18310.py), [실패율](https://www.notion.so/pdg0526/algorithm-3f66559973b842ba81b17d06e64f5076), [카드 정렬하기](https://pdg0526.notion.site/algorithm-6ff55408a8494f06acf92735e5dc43d7) |
-| 이진 탐색 문제 | |
+| 이진 탐색 문제 | [정렬된 배열에서 특정 수의 개수 구하기](https://velog.io/@pdg0526/sgv6ez8n), [고정점 찾기](https://velog.io/@pdg0526/%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-%EA%B3%A0%EC%A0%95%EC%A0%90-%EC%B0%BE%EA%B8%B0)|
 | 다이나믹 프로그래밍 | |
 | 최단 경로 | |
 | 그래프 이론 문제 | |
