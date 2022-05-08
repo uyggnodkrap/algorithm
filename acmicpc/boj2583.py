@@ -1,29 +1,17 @@
+"""
+영역 구하기
+https://www.acmicpc.net/problem/2583
+"""
 import sys
 
-# M: 세로, N: 가로
-M, N, K = map(int, sys.stdin.readline().split(' '))
+m, n, k = map(int, sys.stdin.readline().rstrip().split(' '))
+# m: 세로
+# n: 가로
 
-area = [["O"] * N] * M
+graph = [[0] * (n+1) for _ in range(m+1)]
 
-# print(area[2][6])
-for a in area:
-    print(a)
+# for _ in range(k):
+#     q, w, e, r = map(int, sys.stdin.readline().rstrip().split(' '))
 
-for _ in range(K):
-    x = list(map(int, sys.stdin.readline().split(' ')))
-    x1 = x[:2]
-    x2 = x[2:]
-
-    # x1[0] = N -1 - x1[0]
-    x1[1] = M - x1[1]
-
-    # x2[0] = N -1 - x2[0]
-    x2[1] = M - x2[1]
-
-    for i in range(x2[1], x1[0]):
-        for j in range(x1[0], x[2]):
-            print(i, j)
-        print()
-
-    print(x1, x2)
-
+for g in graph:
+    print(g)
