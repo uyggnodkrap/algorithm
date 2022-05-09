@@ -14,3 +14,5 @@ def solution(n, arr1, arr2):
         answer.append(q)
 
     return answer
+
+solution = lambda n, arr1, arr2: [bin(a|b)[2:].rjust(n, "0").replace("1", "#").replace("0", " ") for a, b in zip(arr1, arr2)]
