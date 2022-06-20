@@ -9,3 +9,6 @@
 | 5 | 해싱 | [Hashing](https://github.com/uyggnodkrap/algorithm/blob/ee2b390a378abc5af2c5713c43b53d9f4826c1d2/algorithmstudy/05week/boj15829.md), [완주하지 못한 선수](https://github.com/uyggnodkrap/algorithm/blob/ee2b390a378abc5af2c5713c43b53d9f4826c1d2/algorithmstudy/05week/prgm42576.md), [전화번호 목록](https://github.com/uyggnodkrap/algorithm/blob/cbd8ce813b1db8f7f8e7247183a3c42fcc7f24c5/algorithmstudy/05week/prgm42577.md)
 6 | 재귀함수 | [이진수 변환](https://github.com/uyggnodkrap/algorithm/blob/cbd8ce813b1db8f7f8e7247183a3c42fcc7f24c5/algorithmstudy/06week/boj10829.md), [팩토리얼](https://github.com/uyggnodkrap/algorithm/blob/cbd8ce813b1db8f7f8e7247183a3c42fcc7f24c5/algorithmstudy/06week/boj10872.md), 괄호변환
 | 7 | 동적계획법 | 계단 오르기, [정수 삼각형](https://github.com/uyggnodkrap/algorithm/blob/22a1390a32071c130f48d20ddaf13f0443812c81/algorithmstudy/07week/prgm43105.md), N으로 표현 | 
+8 | 다익스트라 | 배달, 특정 거리의 도시 찾기 | 가장 먼 노드 | 
+| 9 | 탐욕법 | 체육복, [전자레인지](https://github.com/uyggnodkrap/algorithm/blob/f96c0063ec29f3bac7168d76f4f36239bd1a9c8a/algorithmstudy/09week/boj10162.md), [구명보트](https://github.com/uyggnodkrap/algorithm/blob/f96c0063ec29f3bac7168d76f4f36239bd1a9c8a/algorithmstudy/09week/prgm42885.md) | 
+| 10 | 연결리스트/트리구조 | 프린터, 더 맵게, 이중우선순위큐 |
