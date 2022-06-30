@@ -14,4 +14,8 @@ numbers = list(map(int, sys.stdin.readline().rstrip().split(' ')))
 answer = []
 
 for i in range(m):
-    print(bisect.bisect_right(card, numbers[i]) - bisect.bisect_left(card, numbers[i]), end = ' ')
+    t = bisect.bisect_right(card, numbers[i])
+    if  t!= 0:
+        print(1)
+    else:
+        print(0)
